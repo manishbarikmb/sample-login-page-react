@@ -4,8 +4,8 @@ The username and password were fetched from a web API  - https://reqres.in/api/l
 
 This project is part of the recruitment process by McKinley & Rice Inc.
 
-![GitHub Logo]("/public/ss.png")
+![GitHub Logo]("public/ss.png")
 Format: ![Alt Text](url)
 
-![alt text]("/public/ss.png")
+![alt text]("public/ss.png")
 
